@@ -1,4 +1,4 @@
-# getting_cleaning_data_project
+# Coursera-031: Getting and Cleaning Data Project
 This code repository holds the run_analysis.R, codebook and README for the final project related to the Getting & Cleaning data course on Coursera (GetData-031)
 
 ##How the run_analysis.R script works

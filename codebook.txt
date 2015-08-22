@@ -1,0 +1,13 @@
+#Cookbook for the run_analysis.r
+
+Important concepts to note
+1. Activities performed by the participants, like walking, standing etc. are listed in the activity_labels.txt
+2. Features of the data. These are numeric features collected for the participants i.e. these are the column names for the training and the testing data sets. This is listed in the features.txt file
+3. X_train.txt, X_test.txt, y_train.txt, y_test.txt are the files that contain the training and testing data of the various (561) features collected
+4. The data for the subjects (i.e. participants) is listed in the train and test folder as subject_train.txt and subject_test.txt
+
+The objective of this experiment is to collect the various measurements using the various sensors in the Samsung device. These measurements (561 of them) are collected for multiple participants (subjects) and involve multiple activities (like walking, standing etc.). Once this data is collected, then one can do various operations on the measurements to understand how one could 'interpret' the data collected.
+
+Though, the objective of the project is to clean the data
+
+#The various measurements available in the data-set are listed in the README.txt file of the data-set and hence they are not being repeated. The salience of the data and the mechanism of usage is listed above
